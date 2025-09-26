@@ -28,10 +28,6 @@ ProxyPulse is a robust command-line tool for testing proxy servers, designed for
    ```bash
    pip install -r requirements.txt
    ```
-3. Rename the script to `pp.py` (if desired) for shorter command-line usage:
-   ```bash
-   mv proxypulse.py pp.py
-   ```
 
 ## Usage
 
@@ -108,8 +104,6 @@ socks5://user:pass@192.168.1.2:1080
 
 Contact **info@chilhack.net** for questions or suggestions.
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 - **Developer**: Jake, ChillHack Hong Kong Web Development
