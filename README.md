@@ -19,7 +19,7 @@ ProxyPulse is a robust command-line tool for testing proxy servers, designed for
 - Python 3.6+
 - Required packages:
   ```bash
-  pip install requests colorama tqdm
+  pip install 'requests[socks]' colorama tqdm
   ```
 
 ### Setup
